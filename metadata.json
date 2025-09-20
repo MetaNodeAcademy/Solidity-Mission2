@@ -1,0 +1,15 @@
+{
+    "name": "山猫第一个NFT",
+    "description": "山猫的微信图像的第一个NFT作品",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeielt4ckjkqhum6q3u4fnmxvh5xoj6pemulexzcajwggjo5lvdho2a",
+    "attributes": [
+      {
+        "trait_type": "创作者",
+        "value": "学生作业"
+      },
+      {
+        "trait_type": "课程",
+        "value": "区块链技术"
+      }
+    ]
+  }
